@@ -5,5 +5,5 @@ x: int = 2
 y: int = 3
 
 if __name__ == "__main__":
-    print("Hello, world!")
+    print("Hello, world from another branch!")
     print(f"{x+y=}")
